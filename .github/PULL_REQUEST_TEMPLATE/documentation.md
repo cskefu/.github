@@ -1,5 +1,5 @@
 ---
-reviewers : hailiang-wang
+reviewers : cskefu/reviewers
 ---
 
 ### Requirements for Contributing Documentation

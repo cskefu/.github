@@ -17,6 +17,22 @@
 - 为春松客服提供需求、描述 BUG？[参考链接](https://github.com/cskefu/cskefu/issues)
 
 
+## Dev Conferences, regularly
+
+开发者会议，定期社区会议：
+
+周日 10:00UTC+8（中文）（单周）。[转换为您的时区](https://www.thetimezoneconverter.com/?t=10%3A00&tz=GMT%2B8&)
+
+Resources：
+
+- [会议记录和议程](https://www.cskefu.com/category/conferences/) | [Bilibili Video](https://space.bilibili.com/34290698/channel/collectiondetail?sid=817713)
+- [会议日历](https://www.feishu.cn/calendar/share?token=e1a022850428d49e1ab84aef69e8ee5c)
+- [会议链接](https://vc.feishu.cn/j/400656075)
+
 ## OpenSource for the World
+
+- [cskefu/cskefu](https://github.com/cskefu/cskefu) - 产品核心库
+- [cskefu/cskefu-docs](https://github.com/cskefu/cskefu-docs) - 文档中心
+- [cskefu/handouts](https://github.com/cskefu/handouts) - 介绍文件：使用手册、培训 PPTs
 
 ![image](https://user-images.githubusercontent.com/3538629/209596593-824729c8-6cab-445c-9b16-f69967daaeda.png)

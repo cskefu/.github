@@ -1,7 +1,7 @@
 ---
 name: RFCs
 about: 设计规范、重要的提议、工作规范等
-title: 'RFC 序号 描述'
+title: '[design] rfc 序号 描述'
 labels: rfc
 ---
 

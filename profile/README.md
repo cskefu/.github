@@ -31,6 +31,7 @@ Resources：
 
 ## OpenSource for the World
 
+- [cskefu/design](https://github.com/cskefu/design) - 设计相关文件
 - [cskefu/cskefu](https://github.com/cskefu/cskefu) - 产品核心库
 - [cskefu/cskefu-docs](https://github.com/cskefu/cskefu-docs) - 文档中心
 - [cskefu/handouts](https://github.com/cskefu/handouts) - 介绍文件：使用手册、培训 PPTs

@@ -2,6 +2,19 @@
 
 [https://www.cskefu.com](https://www.cskefu.com)
 
+![](https://github.com/cskefu/.github/raw/main/docs/2023_01_07_CSKeFu_Site_Structure/2023_01_07_CSKeFu_Site_Structure.png)
+
+* [cskefu/issues](https://github.com/cskefu/cskefu/issues) - 工作清单，汇总所有类型的任务
+* [开发者会议](https://www.cskefu.com/category/conferences/) - 定期举行开发者同步会议、讨论，以线上为主
+* [即时通信](https://cskefu-x.feishu.cn/) - 使用飞书即时通信，进行语音、视频会议和文字交流
+* [design](https://github.com/cskefu/design) - 设计规范、RFCs
+* [业务思考分享](https://www.cskefu.com/posts/) - 针对企业服务的业务的思考，以客户服务为主
+* [cskefu-docs](https://github.com/cskefu/cskefu-docs) - 用户使用文档的 Git Repo
+* [文档中心](https://docs.cskefu.com/) - 用户使用文档站点
+* [cskefu 源码、安装包](https://github.com/cskefu/cskefu) - 春松客服主要 Git Repo
+* [handouts](https://github.com/cskefu/handouts) - 宣传、案例等媒体资料
+* [maillist](https://lists.cskefu.com/) - 春松客服邮件列表服务
+
 ## How-to Guides
 
 - 了解春松客服社区的活跃情况？[参考链接](https://ossinsight.io/analyze/cskefu/cskefu#overview)

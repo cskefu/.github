@@ -1,7 +1,6 @@
 ---
 name: Requirement
 about: 增加新需求、反馈建议
-title: '言简意赅，更容易获得帮助，比如问题简述及 root cause 日志语句'
 labels: requirement
 assignees: SAMZONG
 ---

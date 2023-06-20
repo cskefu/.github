@@ -1,8 +1,6 @@
-# 春松客服：上线开源客服系统
+# 春松客服：开源客服系统
 
 [https://www.cskefu.com](https://www.cskefu.com)
-
-![](https://github.com/cskefu/.github/raw/main/docs/2023_01_07_CSKeFu_Site_Structure/2023_01_07_CSKeFu_Site_Structure.png)
 
 * [cskefu/issues](https://github.com/cskefu/cskefu/issues) - 工作清单，汇总所有类型的任务
 * [开发者会议](https://www.cskefu.com/category/conferences/) - 定期举行开发者同步会议、讨论，以线上为主
@@ -28,3 +26,8 @@
 - 关注最新动态，关注春松客服邮件列表？[参考链接](https://lists.cskefu.com/cgi-bin/mailman/listinfo/dev)
 - 了解春松客服的设计规范、意见征集？[参考链接](https://www.cskefu.com/category/rfcs/)
 - 为春松客服提供需求、描述 BUG？[参考链接](https://github.com/cskefu/cskefu/issues)
+
+## 站点地图
+
+查看: [站点地图](https://github.com/cskefu/.github/raw/main/docs/2023_01_07_CSKeFu_Site_Structure/2023_01_07_CSKeFu_Site_Structure.png)
+

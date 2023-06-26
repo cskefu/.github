@@ -13,7 +13,6 @@
 * [文档中心](https://docs.cskefu.com/) - 用户使用文档站点
 * [cskefu 源码、安装包](https://github.com/cskefu/cskefu) - 春松客服主要 Git Repo
 * [handouts](https://github.com/cskefu/handouts) - 宣传、案例等媒体资料
-* [maillist](https://lists.cskefu.com/) - 春松客服邮件列表服务
 
 查看 [站点地图](https://github.com/cskefu/.github/raw/main/docs/2023_01_07_CSKeFu_Site_Structure/2023_01_07_CSKeFu_Site_Structure.png)
 
@@ -21,7 +20,7 @@
 
 - 了解春松客服社区的活跃情况？[参考链接](https://ossinsight.io/analyze/cskefu/cskefu#overview)
 - 如何部署春松客服？[参考链接](https://docs.cskefu.com/docs/deploy)
-- 了解春松客服的开源许可协议？[参考链接](https://www.cskefu.com/2022/06/24/cskefu-opensource-license/)
+- 了解春松客服的开源许可协议？[参考链接](https://www.cskefu.com/2023/06/25/chunsong-public-license-1-0/)
 - 如何搭建春松客服的开发环境？[参考链接](https://docs.cskefu.com/docs/osc/)
 - 如何加入春松客服开源社区？[参考链接](https://www.cskefu.com/join-us/)
 - 如何为春松客服提交代码？[参考链接](https://www.cskefu.com/2022/10/30/how-to-sign-dco-for-pr/)

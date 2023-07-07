@@ -2,7 +2,7 @@
 name: Bug
 about: 报告软件缺陷
 labels: bug
-assignees: SAMZONG
+assignees: lecjy
 ---
 
 ## 现在行为

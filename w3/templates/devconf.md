@@ -11,79 +11,92 @@
 
 ## 本周议题
 
-* 工作状态同步：DONE，TODO，ISSUE
+* 工作状态同步：Done，Todo，Support Needed
 * 主要议题：XXX
 
 ## 海良 @ 春松客服总工程师
 
-### DONE
+### Done
 
 * XXX
 
-### TODO
+### Todo
 
 * XXX
 
-### ISSUE
+### Support Needed
 
 * XXX
 
-## 刘勇 @ 春松客服技术委员
+## 刘勇 @ 春松客服技术专家
 
-### DONE
-
-* XXX
-
-### TODO
+### Done
 
 * XXX
 
-### ISSUE
+### Todo
 
 * XXX
 
-## Kaifuny @ 春松客服核心开发者
-
-### DONE
-
-* XXX
-
-### TODO
-
-* XXX
-
-### ISSUE
+### Support Needed
 
 * XXX
 
 ## Xuelei @ 春松客服开发者
 
-### DONE
+### Done
 
 * XXX
 
-### TODO
+### Todo
 
 * XXX
 
-### ISSUE
+### Support Needed
 
 * XXX
 
+## Kaifuny @ 春松客服产品经理
+
+### Done
+
+* XXX
+
+### Todo
+
+* XXX
+
+### Support Needed
+
+* XXX
+
+## Dexin @ 业务专家
+
+### Done
+
+* XXX
+
+### Todo
+
+* XXX
+
+### Support Needed
+
+* XXX
 
 <!--
 
 ## 人员 @ 角色
 
-### DONE
+### Done
 
 * XXX
 
-### TODO
+### Todo
 
 * XXX
 
-### ISSUE
+### Support Needed
 
 * XXX
 

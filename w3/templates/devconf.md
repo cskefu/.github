@@ -14,20 +14,6 @@
 * 工作状态同步：Done，Todo，Support Needed
 * 主要议题：XXX
 
-## 海良 @ 春松客服总工程师
-
-### Done
-
-* XXX
-
-### Todo
-
-* XXX
-
-### Support Needed
-
-* XXX
-
 ## 刘勇 @ 春松客服技术专家
 
 ### Done
@@ -70,7 +56,21 @@
 
 * XXX
 
-## Dexin @ 业务专家
+## 古风 @ 春松客服业务专家
+
+### Done
+
+* XXX
+
+### Todo
+
+* XXX
+
+### Support Needed
+
+* XXX
+
+## 海良 @ 春松客服总工程师
 
 ### Done
 

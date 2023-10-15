@@ -42,21 +42,6 @@
 
 * XXX
 
-
-## 果冻
-
-### Done
-
-* XXX
-
-### Todo
-
-* XXX
-
-### Support Needed
-
-* XXX
-
 ## Lib
 
 ### Done

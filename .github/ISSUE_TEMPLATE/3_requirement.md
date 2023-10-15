@@ -2,7 +2,7 @@
 name: Requirement
 about: 增加新需求、反馈建议
 labels: requirement
-assignees: SAMZONG
+assignees: kaifuny
 ---
 
 ## 概述
